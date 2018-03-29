@@ -3,7 +3,7 @@ import numpy as np
 import sys, os
 
 parent_path=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(parent_path+'/../mountainsort/packages/pyms')
+sys.path.append('/opt/mountainlab/packages/pyms')
 
 #from basic.p_compute_templates import compute_templates_helper
 from basic.p_extract_clips import extract_clips_helper
