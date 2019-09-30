@@ -2,7 +2,7 @@
 
 This is a franklab fork of the magland msdrift repository from github, originally developed by Jeremy Magland and Jason Chung: https://github.com/magland/msdrift 
 
-This repo contains all modified source code for drift tracking.  Note that is was developed for MountainSort3.
+This repo contains all modified source code for drift tracking.  Note that it was developed for MountainSort3.
 
 **How to use:**  
 We can pull updates from the magland repo using:
